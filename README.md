@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Bexhetisky
+- 👋 Hi, I'm Bexhetisky Founder
 - 👀 I’m interested in ... Design Programming also Pentesting, Ethical Hacking
 - 🌱 I’m currently learning ... PHP,Go and .NET
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m currently looking  to collaborate on diverse Projects with deep diving skills.
 - 📫 How to reach me ... bizzbexhet@protonmail.com
 
 <!---
