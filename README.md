@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bexhetisky
-- 👀 I’m interested in ... Design Programming 
-- 🌱 I’m currently learning ... SQL Server and Dart
+- 👀 I’m interested in ... Design Programming also Pentesting, Ethical Hacking
+- 🌱 I’m currently learning ... PHP,Go and .NET
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... bizzbexhet@protonmail.com
 
